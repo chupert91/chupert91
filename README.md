@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chupert91
-- 👀 I’m interested in artificial intelligence & ML
-- 🌱 I’m currently learning Python & C#
-- 💞️ I’m looking to collaborate on ML projects
+- 👀 I’m a SME in Cloud Computing and proficient with artificial intelligence & ML capabilities
+- 🌱 Fluent in Python! Second languages are Java, C#, and C, HTML, CSS, and JS
+- 💞️ Open to collaborate!
 - 📫 chhupert91@gmail.com
 
 <!---
